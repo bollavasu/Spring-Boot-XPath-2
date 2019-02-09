@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns0:inventory xmlns:ns0="http://com.codesimplify.java/xpath/">
+    <!--Test is test comment-->
+     <ns0:name>Alex</ns0:name>
+     <ns0:age>20</ns0:age>
+     <ns0:sal>25000</ns0:sal>
+     <ns0:book year="2000">
+        <ns0:title>Snow Crash</ns0:title>
+        <ns0:author>Neal Stephenson</ns0:author>
+        <ns0:publisher>Spectra</ns0:publisher>
+        <ns0:isbn>0553380958</ns0:isbn>
+        <ns0:price>14.95</ns0:price>
+    </ns0:book>
+    <ns0:book year="2005">
+        <ns0:title>Burning Tower</ns0:title>
+        <ns0:author>Larry Niven</ns0:author>
+        <ns0:publisher>Pocket</ns0:publisher>
+        <ns0:isbn>0743416910</ns0:isbn>
+        <ns0:price>5.99</ns0:price>
+        <ns0:details>
+            <ns0:language>English</ns0:language>
+            <ns0:pages>777</ns0:pages>
+        </ns0:details>
+    </ns0:book>
+    <ns0:book year="1995">
+        <ns0:title>Zodiac</ns0:title>
+        <ns0:author>Neal Stephenson</ns0:author>
+        <ns0:publisher>Spectra</ns0:publisher>
+        <ns0:isbn>0553573862</ns0:isbn>
+        <ns0:price>7.50</ns0:price>
+        <ns0:details>
+            <ns0:language>Germany</ns0:language>
+            <ns0:pages>888</ns0:pages>
+        </ns0:details>
+    </ns0:book>
+</ns0:inventory>
